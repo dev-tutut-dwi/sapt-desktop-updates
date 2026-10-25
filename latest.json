@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Rilis awal SAPT Desktop: login database, pengaturan koneksi tersimpan, Dasar Hukum, dan fondasi migrasi menu bertahap.",
-  "pub_date": "2026-10-25T06:22:41Z",
+  "version": "0.1.5",
+  "notes": "Perbaikan keamanan: menghapus literal password akun khusus lama dari aplikasi. Login tetap memverifikasi password melalui database SAPT. Rilis 0.1.4 ditarik dari unduhan publik.",
+  "pub_date": "2026-10-25T06:39:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRmtjNi81Tm9zbWdWTlhQWVltRjdEdEQrYVdZc3VJaEhvT0pMeFBSOXRFRmVsRmthM1gzVHdZK1FvaG4zdTZuTjRHcjRlZDAyOFJxNTY2ZmVOUVdqdnRwd24wd0EvQWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTA5MjQ3CWZpbGU6U0FQVCBEZXNrdG9wXzAuMS40X3g2NC1zZXR1cC5leGUKVTZxd2V0VkM4dGFLS2pURzZKdEhKaVNrVkJSRUlLVi9wR25paTUxQjR6QlJYVWtFU3pvNDRGMnl6VStnenowckN5WEQ5dzFQbnhXVi9XQUlnWGZuQmc9PQo=",
-      "url": "https://github.com/dev-tutut-dwi/sapt-desktop-updates/releases/download/v0.1.4/SAPT-Desktop_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRmtjNi81Tm9zbWtxelNlTnQ2eWxDOGd3N2xvRkxobWkvbHVjNC9wd3ZBaHhVUU52Y1VDTTdJOXBVdEJtek5HU29QSDNiNlQ3NEVTQXhFTEcxa3RsSlZzU1BLbWpYOEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTA5OTg4CWZpbGU6U0FQVCBEZXNrdG9wXzAuMS41X3g2NC1zZXR1cC5leGUKbXI0MU1zNjcvVHJkWnM5VzNxNktlWmVaNGFSejBGZStkdnN4dHNieThkVS96SmtrczdkNDdaNlBaOE9OUzU4Y3doeUpHOG16WFJZa05UcTdPOEhWQnc9PQo=",
+      "url": "https://github.com/dev-tutut-dwi/sapt-desktop-updates/releases/download/v0.1.5/SAPT-Desktop_0.1.5_x64-setup.exe"
     }
   }
 }
