@@ -1,7 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "Tes update dari repo public.",
-  "pub_date": "2026-03-19T12:00:00Z",
-  "url": "https://example.com/belum-dipakai-untuk-tes-check",
-  "signature": "belum-dipakai-untuk-tes-check"
+  "version": "0.1.4",
+  "notes": "Rilis awal SAPT Desktop: login database, pengaturan koneksi tersimpan, Dasar Hukum, dan fondasi migrasi menu bertahap.",
+  "pub_date": "2026-10-25T06:22:41Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRmtjNi81Tm9zbWdWTlhQWVltRjdEdEQrYVdZc3VJaEhvT0pMeFBSOXRFRmVsRmthM1gzVHdZK1FvaG4zdTZuTjRHcjRlZDAyOFJxNTY2ZmVOUVdqdnRwd24wd0EvQWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTA5MjQ3CWZpbGU6U0FQVCBEZXNrdG9wXzAuMS40X3g2NC1zZXR1cC5leGUKVTZxd2V0VkM4dGFLS2pURzZKdEhKaVNrVkJSRUlLVi9wR25paTUxQjR6QlJYVWtFU3pvNDRGMnl6VStnenowckN5WEQ5dzFQbnhXVi9XQUlnWGZuQmc9PQo=",
+      "url": "https://github.com/dev-tutut-dwi/sapt-desktop-updates/releases/download/v0.1.4/SAPT-Desktop_0.1.4_x64-setup.exe"
+    }
+  }
 }
